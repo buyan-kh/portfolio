@@ -1,3 +1,8 @@
+import Start from "@/components/start";
 export default function Home() {
-  return <main></main>;
+  return (
+    <main>
+      <Start />
+    </main>
+  );
 }
