@@ -65,6 +65,7 @@ export const projectsData = [
       "I worked as a full-stack developer on this startup project for 2 years. Users can give public feedback to companies.",
     tags: ["React", "Next.js", "MongoDB", "Tailwind", "Prisma"],
     imageUrl: screenShot,
+    link: "https://www.google.com/",
   },
   {
     title: "rmtDev",
@@ -72,6 +73,7 @@ export const projectsData = [
       "Job board for remote developer jobs. I was the front-end developer. It has features like filtering, sorting and pagination.",
     tags: ["React", "TypeScript", "Next.js", "Tailwind", "Redux"],
     imageUrl: screenShot,
+    link: "https://www.google.com/",
   },
   {
     title: "Word Analytics",
@@ -79,20 +81,22 @@ export const projectsData = [
       "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
     tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
     imageUrl: screenShot,
+    link: "https://www.google.com/",
   },
   {
     title: "Space Churro",
     description:
-      "I worked as a full-stack developer on this project during a hackathon. Space churro is a smart telescope that calculates the exact location of celestial objects and follows, records them",
+      "I worked as a full-stack developer on this project during a hackathon. Space churro is a smart telescope that calculates the exact location of celestial objects.",
     tags: ["React", "Flask", "Python", "Raspberry Pi"],
     imageUrl: screenShot,
+    link: "https://www.google.com/",
   },
   {
     title: "Threat Tracker",
     description:
-      "I worked as a full-stack developer on this iOS app during a hackathon. Threat Tracker is a map navigation that guides the user through safest route. Uses AI and scrapes local news source and police reports to calculate heatmaps of danger around the area and predicts future crimes.",
+      "I worked as a full-stack developer on this iOS app during a hackathon. It's a map navigation that guides the user through safest route. Uses AI and scrapes local news source and police reports to calculate heatmaps of danger around the area and predicts future crimes.",
     tags: [
-      "ReactNative",
+      "React Native",
       "Next.js",
       "MongoDB",
       "FastAPI",
@@ -100,6 +104,7 @@ export const projectsData = [
       "Pytorch",
     ],
     imageUrl: screenShot,
+    link: "https://www.google.com/",
   },
 ] as const;
 
