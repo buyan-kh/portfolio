@@ -80,6 +80,27 @@ export const projectsData = [
     tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
     imageUrl: screenShot,
   },
+  {
+    title: "Space Churro",
+    description:
+      "I worked as a full-stack developer on this project during a hackathon. Space churro is a smart telescope that calculates the exact location of celestial objects and follows, records them",
+    tags: ["React", "Flask", "Python", "Raspberry Pi"],
+    imageUrl: screenShot,
+  },
+  {
+    title: "Threat Tracker",
+    description:
+      "I worked as a full-stack developer on this iOS app during a hackathon. Threat Tracker is a map navigation that guides the user through safest route. Uses AI and scrapes local news source and police reports to calculate heatmaps of danger around the area and predicts future crimes.",
+    tags: [
+      "ReactNative",
+      "Next.js",
+      "MongoDB",
+      "FastAPI",
+      "Llama 3.2",
+      "Pytorch",
+    ],
+    imageUrl: screenShot,
+  },
 ] as const;
 
 export const skillsData = [
