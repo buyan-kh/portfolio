@@ -71,6 +71,3 @@ export default function Project({
     </motion.section>
   );
 }
-
-
-2:53:18

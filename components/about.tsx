@@ -26,9 +26,8 @@ export default function About() {
       </p>
       <p className="mb-3 italic">
         <span className="font-bold"> Learning</span> is change. Reading is
-        knowledge. Knowledge is power. With that power I will work towards the
-        goals I care most about. I will use every bit of democratic power I have
-        to shape the world I want to live in and fight for people in my
+        knowledge. Knowledge is power. I will use every bit of democratic power
+        I have to shape the world I want to live in and fight for people in my
         communities who have the least systematic power.
       </p>
     </motion.section>
