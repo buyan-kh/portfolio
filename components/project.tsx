@@ -67,7 +67,7 @@ export default function Project({
           group-even:group-hover:scale-[1.05]
           
           group-even:right-[initial]
-          group-even:-left-40"
+          group-even:-left-40 "
             src={imageUrl}
             alt={title}
             quality={95}
